@@ -1,0 +1,1139 @@
+{
+  "schema_version": 2,
+  "style": "wormod",
+  "sources": [
+    "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png"
+  ],
+  "destination": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES",
+  "report_path": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud_conversion_report_wormod.json",
+  "name_source_commit": null,
+  "source_archive_sha256": "b0aae371916ad99bfd1340cdfab9bb30eebdce2290c648e14b073074b58c5020",
+  "dry_run": false,
+  "expected_images": 86,
+  "font_policy": "No font page/metrics copied. Prepare matching style-local pairs separately.",
+  "runtime_policy": "Exporting images does not implement or activate a HUD renderer.",
+  "images": [
+    {
+      "name": "battery",
+      "qbkey": "0x2fd10b51",
+      "target": "hud/wormod/battery.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery.png",
+      "sha256": "ba277f5416284eb7026e18542e2402d0820cbf3adc42811d561985397b8e0cb2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery.png"
+    },
+    {
+      "name": "battery_charging",
+      "qbkey": "0x013e3f9b",
+      "target": "hud/wormod/battery_charging.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_charging.png",
+      "sha256": "a72f7252ed6a7ebdf236e5d6be15dd1071b206eaf9fce3cd8e1995e1e6ef5f0c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_charging.png"
+    },
+    {
+      "name": "battery_level0",
+      "qbkey": "0xb701b78f",
+      "target": "hud/wormod/battery_level0.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level0.png",
+      "sha256": "ea11ab5f0f93548084b04504c4e2652922f6decf89a662fdb1e68a99f2c4cc28",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level0.png"
+    },
+    {
+      "name": "battery_level1",
+      "qbkey": "0xc0068719",
+      "target": "hud/wormod/battery_level1.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level1.png",
+      "sha256": "da35de4c7998073f002abb8d7ed331ad60859ce9423c3cff43486e30699d1664",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level1.png"
+    },
+    {
+      "name": "battery_level2",
+      "qbkey": "0x590fd6a3",
+      "target": "hud/wormod/battery_level2.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level2.png",
+      "sha256": "127b05b39dc160e2520040dfbb42e4ed4616306837b83146eb0c3049a854942e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level2.png"
+    },
+    {
+      "name": "battery_level3",
+      "qbkey": "0x2e08e635",
+      "target": "hud/wormod/battery_level3.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level3.png",
+      "sha256": "6b9de1d4979c28d00d088274c6e23b90a3f368bcb0c5431a7832c20c15d6e152",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level3.png"
+    },
+    {
+      "name": "battery_level4",
+      "qbkey": "0xb06c7396",
+      "target": "hud/wormod/battery_level4.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level4.png",
+      "sha256": "79b69063ae48930096605bf0b0213afdd0bc199ca0416ed185e4f98d589595fe",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level4.png"
+    },
+    {
+      "name": "battery_level5",
+      "qbkey": "0xc76b4300",
+      "target": "hud/wormod/battery_level5.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level5.png",
+      "sha256": "c44d3e4f76e4e4bd1cae7d24a86dc8a2941727ecf6de5333b5f71368d2982e8c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level5.png"
+    },
+    {
+      "name": "battery_level6",
+      "qbkey": "0x5e6212ba",
+      "target": "hud/wormod/battery_level6.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level6.png",
+      "sha256": "6540261ab8de506915e570e0376b45ca835302421f42be1ece429de261ca31d1",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level6.png"
+    },
+    {
+      "name": "battery_level7",
+      "qbkey": "0x2965222c",
+      "target": "hud/wormod/battery_level7.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level7.png",
+      "sha256": "2f3e76c231c36dbbebcbdc79fce7a4c2b50779d3bd830ed2d7c25e9910f51ed8",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level7.png"
+    },
+    {
+      "name": "battery_level8",
+      "qbkey": "0xb9da3fbd",
+      "target": "hud/wormod/battery_level8.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\battery_level8.png",
+      "sha256": "936e9ab92c0e6d4bb2695c4f437bb79223d3320ffc030af5e8cd691a616bb5a3",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\battery_level8.png"
+    },
+    {
+      "name": "Char_Select_Hilite1",
+      "qbkey": "0x6e5168a0",
+      "target": "hud/wormod/Char_Select_Hilite1.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\Char_Select_Hilite1.png",
+      "sha256": "1594258d650464372a84556d099c6f0fad9551bbf0efe58e7403336fee183eee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\Char_Select_Hilite1.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame1",
+      "qbkey": "0xa94dd223",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame1.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame1.png",
+      "sha256": "85f004286ff0f110d368bdfd545f3d917144e78fa5949a472c0b36e85eff401e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame1.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame2",
+      "qbkey": "0x30448399",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame2.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame2.png",
+      "sha256": "74151cc2cb314d259b0462176b4bb71943ce78bf8ba21b24d14944ce081ed0d1",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame2.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame3",
+      "qbkey": "0x4743b30f",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame3.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame3.png",
+      "sha256": "f7b9da3b59df7c5a2d0ea2f7ce260c20fef37a0f550d150075a7f3c08b50a7de",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame3.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame4",
+      "qbkey": "0xd92726ac",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame4.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame4.png",
+      "sha256": "60a8747a9020450ba77c5f56c2d6d69193ca86e1696e31ec2ef9eacdecb37bb2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame4.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame5",
+      "qbkey": "0xae20163a",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame5.png",
+      "dimensions": [
+        512,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame5.png",
+      "sha256": "ff483360b55e1f53dcbefa97548bd6de63703bf64ef4e81506f9d12b56a6cfab",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame5.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame6",
+      "qbkey": "0x37294780",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame6.png",
+      "dimensions": [
+        64,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame6.png",
+      "sha256": "8c4f1e3530f78681dd0ac6f55da4c1ba48f03fcfd7daf3d99d9d108877a4ccdb",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame6.png"
+    },
+    {
+      "name": "GH3_Pause_Bunny_Flame7",
+      "qbkey": "0x402e7716",
+      "target": "hud/wormod/GH3_Pause_Bunny_Flame7.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\GH3_Pause_Bunny_Flame7.png",
+      "sha256": "4e63766a7a11b79df3d1660ac09947c9fb1fd0882b4ea12111453f551efa9239",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\GH3_Pause_Bunny_Flame7.png"
+    },
+    {
+      "name": "HUD_2p_battle_frame",
+      "qbkey": "0x5bb47148",
+      "target": "hud/wormod/HUD_2p_battle_frame.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_battle_frame.png",
+      "sha256": "89efb281d71973363fdec543f62718e59b8309793356fe482b03ede8cde7a03b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_battle_frame.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_BG_off",
+      "qbkey": "0x0a07ba45",
+      "target": "hud/wormod/HUD_2p_c_rock_BG_off.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_BG_off.png",
+      "sha256": "fcec9e3d8b909e70aedf058066cb5ff463b8c9dbf56818349d313fc34e67af47",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_BG_off.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_BG_p1",
+      "qbkey": "0x3f41a821",
+      "target": "hud/wormod/HUD_2p_c_rock_BG_p1.png",
+      "dimensions": [
+        1024,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_BG_p1.png",
+      "sha256": "9d5af9d6741fce884acfb1f0269d45cef724624727cf4fed8050d0a045212948",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_BG_p1.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_BG_p2",
+      "qbkey": "0xa648f99b",
+      "target": "hud/wormod/HUD_2p_c_rock_BG_p2.png",
+      "dimensions": [
+        1024,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_BG_p2.png",
+      "sha256": "9a7579fc3b079f095ac323b270380da4a039ccc7072db22bf5b6df07d01c1074",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_BG_p2.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_body",
+      "qbkey": "0xbfd3fab3",
+      "target": "hud/wormod/HUD_2p_c_rock_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_body.png",
+      "sha256": "e9d6b74802cfbbeff3bb3839f2a21f0547bceebe4b8ec3f173868afb265b037f",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_body.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_crystal_off",
+      "qbkey": "0x319f715f",
+      "target": "hud/wormod/HUD_2p_c_rock_crystal_off.png",
+      "dimensions": [
+        2048,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_crystal_off.png",
+      "sha256": "b2d08153ba79af92d7bd96cb0bb2df8585b24fce239fc5060c62d4c69005006c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_crystal_off.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_crystal_p1",
+      "qbkey": "0xc9aa7a01",
+      "target": "hud/wormod/HUD_2p_c_rock_crystal_p1.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_crystal_p1.png",
+      "sha256": "1594258d650464372a84556d099c6f0fad9551bbf0efe58e7403336fee183eee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_crystal_p1.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_crystal_p2",
+      "qbkey": "0x50a32bbb",
+      "target": "hud/wormod/HUD_2p_c_rock_crystal_p2.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_crystal_p2.png",
+      "sha256": "1594258d650464372a84556d099c6f0fad9551bbf0efe58e7403336fee183eee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_crystal_p2.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_frame",
+      "qbkey": "0x10999827",
+      "target": "hud/wormod/HUD_2p_c_rock_frame.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_frame.png",
+      "sha256": "ff53757abfe3c5bf4c7efc6e793ab5c5ea34bf03ae502812d12a0387fd8badee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_frame.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_light_green",
+      "qbkey": "0x0b633510",
+      "target": "hud/wormod/HUD_2p_c_rock_light_green.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_light_green.png",
+      "sha256": "e34d61183ff4540ec6bd31dd6628b6dc266f16aeeb0dac286a4d8c85e2dfa382",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_light_green.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_light_red",
+      "qbkey": "0x3ffd7bc9",
+      "target": "hud/wormod/HUD_2p_c_rock_light_red.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_light_red.png",
+      "sha256": "171c1bb5dd52c6431cb8803524c6f5c4926956a4e98ec5498e22319fc84ae26b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_light_red.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_light_yellow",
+      "qbkey": "0x5303faf3",
+      "target": "hud/wormod/HUD_2p_c_rock_light_yellow.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_light_yellow.png",
+      "sha256": "2ba26dd6c51d50e788d9865c47f4a4c8d9cb7ff17666e067d06fd77b8551a519",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_light_yellow.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_lights_all",
+      "qbkey": "0x3f3a3d2e",
+      "target": "hud/wormod/HUD_2p_c_rock_lights_all.png",
+      "dimensions": [
+        128,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_lights_all.png",
+      "sha256": "536e79a8e7bfe8e7c412234916ca63848e2a917dfbcd07a3819e6becd9438201",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_lights_all.png"
+    },
+    {
+      "name": "HUD_2p_c_rock_shadow",
+      "qbkey": "0xe70e0762",
+      "target": "hud/wormod/HUD_2p_c_rock_shadow.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_rock_shadow.png",
+      "sha256": "1594258d650464372a84556d099c6f0fad9551bbf0efe58e7403336fee183eee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_rock_shadow.png"
+    },
+    {
+      "name": "HUD_2p_c_score_body",
+      "qbkey": "0x2a12aff0",
+      "target": "hud/wormod/HUD_2p_c_score_body.png",
+      "dimensions": [
+        448,
+        448
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_c_score_body.png",
+      "sha256": "df9d076510c6eeb2525c3cce31230d056fbf84d3ca93828591cacbdb4232c048",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_c_score_body.png"
+    },
+    {
+      "name": "HUD_2p_needle",
+      "qbkey": "0x1d10dde9",
+      "target": "hud/wormod/HUD_2p_needle.png",
+      "dimensions": [
+        32,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_2p_needle.png",
+      "sha256": "6d838a1996d935ee0756ff1b8e2ebe9695809c9c11b3c40a849fa7d18810d55d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_2p_needle.png"
+    },
+    {
+      "name": "HUD_counter_body",
+      "qbkey": "0x38b63489",
+      "target": "hud/wormod/HUD_counter_body.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_body.png",
+      "sha256": "63d23c002aafbeff2f1642d6eadc690099381b4007bb37199f67feaedcb87bcc",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_counter_body.png"
+    },
+    {
+      "name": "HUD_counter_drum",
+      "qbkey": "0x4020ac1b",
+      "target": "hud/wormod/HUD_counter_drum.png",
+      "dimensions": [
+        256,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum.png",
+      "sha256": "a709d23dd34555baba242210238b4cd6ec5915c3283126b9403f4271a61127a2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_counter_drum.png"
+    },
+    {
+      "name": "HUD_counter_drum_icon",
+      "qbkey": "0x262aa716",
+      "target": "hud/wormod/HUD_counter_drum_icon.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum_icon.png",
+      "sha256": "052c48aa8b5e4f2c40bcd0d1bb7a4b93276276285dfa3e8a971b435dc88fdfee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_counter_drum_icon.png"
+    },
+    {
+      "name": "HUD_lightning_01",
+      "qbkey": "0xb0e43a20",
+      "target": "hud/wormod/HUD_lightning_01.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_01.png",
+      "sha256": "88a0ff78ae4129d81ab6aab3f1b3d954dce1b02a05ab3a0597a9cfc5d0a6cbb7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_lightning_01.png"
+    },
+    {
+      "name": "HUD_lightning_03",
+      "qbkey": "0x5eea5b0c",
+      "target": "hud/wormod/HUD_lightning_03.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_03.png",
+      "sha256": "169b67ec9ef104863cda32811695b115344bf430b7cc3ed39f5c340102350253",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_lightning_03.png"
+    },
+    {
+      "name": "HUD_lightning_05",
+      "qbkey": "0xb789fe39",
+      "target": "hud/wormod/HUD_lightning_05.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_05.png",
+      "sha256": "e91cbddb91de9794d7826da6328372ecf518e94b60c80a292d1865b0c45fcece",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_lightning_05.png"
+    },
+    {
+      "name": "HUD_lightning_07",
+      "qbkey": "0x59879f15",
+      "target": "hud/wormod/HUD_lightning_07.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_07.png",
+      "sha256": "bc60ba4a15f807b7b715622907a1487284598f75a5bc79a9bdc2e3623e971166",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_lightning_07.png"
+    },
+    {
+      "name": "HUD_rock_BG_green",
+      "qbkey": "0x450cea2a",
+      "target": "hud/wormod/HUD_rock_BG_green.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_green.png",
+      "sha256": "fde36d590e1ea30bf58c319072bc17aaf1aa27429c35dc80c8cf234043da7908",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_BG_green.png"
+    },
+    {
+      "name": "HUD_rock_BG_red",
+      "qbkey": "0x08c26d99",
+      "target": "hud/wormod/HUD_rock_BG_red.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_red.png",
+      "sha256": "fde36d590e1ea30bf58c319072bc17aaf1aa27429c35dc80c8cf234043da7908",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_BG_red.png"
+    },
+    {
+      "name": "HUD_rock_BG_yellow",
+      "qbkey": "0x95414c9e",
+      "target": "hud/wormod/HUD_rock_BG_yellow.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_yellow.png",
+      "sha256": "fde36d590e1ea30bf58c319072bc17aaf1aa27429c35dc80c8cf234043da7908",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_BG_yellow.png"
+    },
+    {
+      "name": "HUD_rock_body",
+      "qbkey": "0xffdc02c4",
+      "target": "hud/wormod/HUD_rock_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_body.png",
+      "sha256": "d62e1efa59e5b5febe290b1272517dff5fd89049aede29145ecf13b501f730d8",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_body.png"
+    },
+    {
+      "name": "HUD_rock_lights_all",
+      "qbkey": "0x79a0865d",
+      "target": "hud/wormod/HUD_rock_lights_all.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_all.png",
+      "sha256": "b365308254aae8e6e4889bcdfd2957cef3a0089aba4c671312729e0b6662eba5",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_lights_all.png"
+    },
+    {
+      "name": "HUD_rock_lights_green",
+      "qbkey": "0x89194192",
+      "target": "hud/wormod/HUD_rock_lights_green.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_green.png",
+      "sha256": "cfe1b52e2e7d1c2a463bd6a12e44204537d30e6813f9a9ebb9b705d507e397f5",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_lights_green.png"
+    },
+    {
+      "name": "HUD_rock_lights_red",
+      "qbkey": "0xb8d9a80f",
+      "target": "hud/wormod/HUD_rock_lights_red.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_red.png",
+      "sha256": "8a7577663f21db8a4158d7815abc6df7a4c1c832cf9d3def5eb254433af74ec6",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_lights_red.png"
+    },
+    {
+      "name": "HUD_rock_lights_yellow",
+      "qbkey": "0x5037628b",
+      "target": "hud/wormod/HUD_rock_lights_yellow.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_yellow.png",
+      "sha256": "7bc2dcfb9a6b6b1cb7303c73c0b1517b919d07748f455613c77b5fe0707329a7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_lights_yellow.png"
+    },
+    {
+      "name": "HUD_rock_needle",
+      "qbkey": "0x2438b25a",
+      "target": "hud/wormod/HUD_rock_needle.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_needle.png",
+      "sha256": "a6cd074c6fcc2665fde32b23bb7c3b2cdd1eec68980b6a68d09cda065ae18ef6",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_needle.png"
+    },
+    {
+      "name": "HUD_rock_tube",
+      "qbkey": "0xd944d7e8",
+      "target": "hud/wormod/HUD_rock_tube.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube.png",
+      "sha256": "88dba19a9b9782d01762a3d5e7f65d1b64f579858234416ed6fc9836702d44f3",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_tube.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill",
+      "qbkey": "0x351b676f",
+      "target": "hud/wormod/HUD_rock_tube_glow_fill.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill.png",
+      "sha256": "23ef2e400b58d7178fe2a146d439e20e4d358ce736f439b715ea12be4982054c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_tube_glow_fill.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill_b",
+      "qbkey": "0xaf2cf767",
+      "target": "hud/wormod/HUD_rock_tube_glow_fill_b.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill_b.png",
+      "sha256": "23ef2e400b58d7178fe2a146d439e20e4d358ce736f439b715ea12be4982054c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_tube_glow_fill_b.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full",
+      "qbkey": "0x20273d7b",
+      "target": "hud/wormod/HUD_rock_tube_glow_full.png",
+      "dimensions": [
+        1,
+        1
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full.png",
+      "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_tube_glow_full.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full_b",
+      "qbkey": "0x0a3c8de4",
+      "target": "hud/wormod/HUD_rock_tube_glow_full_b.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full_b.png",
+      "sha256": "88dba19a9b9782d01762a3d5e7f65d1b64f579858234416ed6fc9836702d44f3",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_rock_tube_glow_full_b.png"
+    },
+    {
+      "name": "HUD_score_body",
+      "qbkey": "0xe4334497",
+      "target": "hud/wormod/HUD_score_body.png",
+      "dimensions": [
+        448,
+        448
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_body.png",
+      "sha256": "5bc0bf2cde8f2aca40d1e0aed42622946d4213ee57a028a51d1d992226d00ac7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_body.png"
+    },
+    {
+      "name": "HUD_score_flash",
+      "qbkey": "0x36f7ff86",
+      "target": "hud/wormod/HUD_score_flash.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_flash.png",
+      "sha256": "1594258d650464372a84556d099c6f0fad9551bbf0efe58e7403336fee183eee",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_flash.png"
+    },
+    {
+      "name": "HUD_score_light_0",
+      "qbkey": "0xb2f82657",
+      "target": "hud/wormod/HUD_score_light_0.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0.png",
+      "sha256": "01594bb046e4ae8c2b22cf779fe0180382d94c9905dd07faaaaa1e33735d416a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_0.png"
+    },
+    {
+      "name": "HUD_score_light_0_blue",
+      "qbkey": "0x677f40d9",
+      "target": "hud/wormod/HUD_score_light_0_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_blue.png",
+      "sha256": "01594bb046e4ae8c2b22cf779fe0180382d94c9905dd07faaaaa1e33735d416a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_0_blue.png"
+    },
+    {
+      "name": "HUD_score_light_0_green",
+      "qbkey": "0x316255c3",
+      "target": "hud/wormod/HUD_score_light_0_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_green.png",
+      "sha256": "01594bb046e4ae8c2b22cf779fe0180382d94c9905dd07faaaaa1e33735d416a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_0_green.png"
+    },
+    {
+      "name": "HUD_score_light_0_purple",
+      "qbkey": "0x7662e684",
+      "target": "hud/wormod/HUD_score_light_0_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_purple.png",
+      "sha256": "01594bb046e4ae8c2b22cf779fe0180382d94c9905dd07faaaaa1e33735d416a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_0_purple.png"
+    },
+    {
+      "name": "HUD_score_light_1",
+      "qbkey": "0xc5ff16c1",
+      "target": "hud/wormod/HUD_score_light_1.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1.png",
+      "sha256": "7e108903a6b61fd748f629f032d1ff3db9c352f2615e538c83c60f288d81aa86",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_1.png"
+    },
+    {
+      "name": "HUD_score_light_1_blue",
+      "qbkey": "0xac23937c",
+      "target": "hud/wormod/HUD_score_light_1_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_blue.png",
+      "sha256": "8d3bc612b4485d482c3052a3fd6163209812b016f85dfcce2351a16d1c7ee269",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_1_blue.png"
+    },
+    {
+      "name": "HUD_score_light_1_green",
+      "qbkey": "0x97155e77",
+      "target": "hud/wormod/HUD_score_light_1_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_green.png",
+      "sha256": "68f4d85ec4a7c138a640ba67e5f99144de3d2dbb14348f838fbf5b4f6a1b37a6",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_1_green.png"
+    },
+    {
+      "name": "HUD_score_light_1_purple",
+      "qbkey": "0xbac8e61a",
+      "target": "hud/wormod/HUD_score_light_1_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_purple.png",
+      "sha256": "480252df044296e860af7fbc19f77aace2e48fa9d09c2adf2b21b1496569e3c2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_1_purple.png"
+    },
+    {
+      "name": "HUD_score_light_2",
+      "qbkey": "0x5cf6477b",
+      "target": "hud/wormod/HUD_score_light_2.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2.png",
+      "sha256": "efeb3384bd1a4af319ef4eade931ecf5f98754f6f3cf704fc497df6e59b4e24a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_2.png"
+    },
+    {
+      "name": "HUD_score_light_2_blue",
+      "qbkey": "0x2ab7e1d2",
+      "target": "hud/wormod/HUD_score_light_2_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_blue.png",
+      "sha256": "597a33d2ab96d73cb4d009377c0ac6764d67115b4dfafa1a28cd1a2b75cf169d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_2_blue.png"
+    },
+    {
+      "name": "HUD_score_light_2_green",
+      "qbkey": "0xa6fd44ea",
+      "target": "hud/wormod/HUD_score_light_2_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_green.png",
+      "sha256": "e155e50a8a33548c412bb0a556247a86b586085ed29e4d7bf139b086b68dfd7d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_2_green.png"
+    },
+    {
+      "name": "HUD_score_light_2_purple",
+      "qbkey": "0x3447e1f9",
+      "target": "hud/wormod/HUD_score_light_2_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_purple.png",
+      "sha256": "de8dd6c26ba5a9077f34d1bd49cbfb8af49becd9d7ad790f751b53e47574bc42",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_light_2_purple.png"
+    },
+    {
+      "name": "HUD_score_nixie_1a",
+      "qbkey": "0xb373f287",
+      "target": "hud/wormod/HUD_score_nixie_1a.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_1a.png",
+      "sha256": "e54e785bebe51b06c32a4ec7910bde7d1539f1ae04b60d7eeffba4df919e445d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_1a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2a",
+      "qbkey": "0x985ea144",
+      "target": "hud/wormod/HUD_score_nixie_2a.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2a.png",
+      "sha256": "a0088480b518efc56dfc33607f8520be27859cf7d2ea930925513c85cf784a7e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_2a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2b",
+      "qbkey": "0x0157f0fe",
+      "target": "hud/wormod/HUD_score_nixie_2b.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2b.png",
+      "sha256": "799fb458b7455cc3a8035ee4bbb72ea54aee0a5ad5ab8141ea99d4f32ddd4b84",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_2b.png"
+    },
+    {
+      "name": "HUD_score_nixie_3a",
+      "qbkey": "0x81459005",
+      "target": "hud/wormod/HUD_score_nixie_3a.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_3a.png",
+      "sha256": "47e0818345e81a1165506fa708ae2ec7992652fc7425012a9532a1f9778caf3e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_3a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4a",
+      "qbkey": "0xce0406c2",
+      "target": "hud/wormod/HUD_score_nixie_4a.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4a.png",
+      "sha256": "fb2feb49238a0a9ed71da7e29c03d39fed4856e44298b04c28068f641215afae",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_4a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4b",
+      "qbkey": "0x570d5778",
+      "target": "hud/wormod/HUD_score_nixie_4b.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4b.png",
+      "sha256": "f71e10664df6859fbe90b2ee128f6c36a09dcc2be98e060df0fec6802d9e6565",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_4b.png"
+    },
+    {
+      "name": "HUD_score_nixie_6b",
+      "qbkey": "0x653b35fa",
+      "target": "hud/wormod/HUD_score_nixie_6b.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_6b.png",
+      "sha256": "f07adf6ab87ddec76bb19e6ab841d2cb84a19a521294a6544dac4e71a017cef2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_6b.png"
+    },
+    {
+      "name": "HUD_score_nixie_8b",
+      "qbkey": "0xfbb81874",
+      "target": "hud/wormod/HUD_score_nixie_8b.png",
+      "dimensions": [
+        2048,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_8b.png",
+      "sha256": "75c91e13dbeca8ae786492c088deaf4f1e1307e4147804d564478a1077fc9215",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\HUD_score_nixie_8b.png"
+    },
+    {
+      "name": "JOW_Spark01",
+      "qbkey": "0x67f773b1",
+      "target": "hud/wormod/JOW_Spark01.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\JOW_Spark01.png",
+      "sha256": "14e0b0f9f4358483a8cc25b05b7dd641732851488621a3e24f32e428d875a2b2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\JOW_Spark01.png"
+    },
+    {
+      "name": "JOW_Spark02",
+      "qbkey": "0xfefe220b",
+      "target": "hud/wormod/JOW_Spark02.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\JOW_Spark02.png",
+      "sha256": "25119484410d26b5e1b07f1d75fda1e7a1f696d43e5740ccd075777ab9b1bc17",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\JOW_Spark02.png"
+    },
+    {
+      "name": "wifi_bar0",
+      "qbkey": "0xdca434cd",
+      "target": "hud/wormod/wifi_bar0.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\wifi_bar0.png",
+      "sha256": "7cc6db43c020c5fc6c4ce66728599da601493c551f4c75fbfabcbfa49d18cfab",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\wifi_bar0.png"
+    },
+    {
+      "name": "WiFi_bar1",
+      "qbkey": "0xaba3045b",
+      "target": "hud/wormod/WiFi_bar1.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\WiFi_bar1.png",
+      "sha256": "1736c4f7fc6ef7bbbd83b6eebe60d7a8b2df2d10c79890f7dcf76f4a9bd9416d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\WiFi_bar1.png"
+    },
+    {
+      "name": "WiFi_bar2",
+      "qbkey": "0x32aa55e1",
+      "target": "hud/wormod/WiFi_bar2.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\WiFi_bar2.png",
+      "sha256": "c24dbaf724abf369c96001c9a62a8b87e54c1b786b4a73402da514b2e66f9a2e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\WiFi_bar2.png"
+    },
+    {
+      "name": "WiFi_bar3",
+      "qbkey": "0x45ad6577",
+      "target": "hud/wormod/WiFi_bar3.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\WiFi_bar3.png",
+      "sha256": "8a15cebf351d1d1130190723178a314f4827c60d5da6411305000ae498335698",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\WiFi_bar3.png"
+    },
+    {
+      "name": "WiFi_bar4",
+      "qbkey": "0xdbc9f0d4",
+      "target": "hud/wormod/WiFi_bar4.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\WiFi_bar4.png",
+      "sha256": "4eb5919b70fa3dca350ff97e38e7b36fd40c2752e33e5e2f61749ba5b082ccc5",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\WiFi_bar4.png"
+    },
+    {
+      "name": "WiFi_bar5",
+      "qbkey": "0xaccec042",
+      "target": "hud/wormod/WiFi_bar5.png",
+      "dimensions": [
+        164,
+        164
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\WiFi_bar5.png",
+      "sha256": "52331e45e08fdebd99f471f05522f660c5aab601941638a8ac2d0be7e358a674",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod\\WiFi_bar5.png"
+    }
+  ],
+  "copied": 86,
+  "missing": 0,
+  "errors": [],
+  "hud_directory": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ICE ZONES\\hud\\wormod"
+}

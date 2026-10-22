@@ -1,0 +1,593 @@
+{
+  "schema_version": 2,
+  "style": "gh3",
+  "sources": [
+    "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png"
+  ],
+  "destination": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones",
+  "report_path": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud_conversion_report_gh3.json",
+  "name_source_commit": "7f5b1977093c646fad8b069009c719be86097fb5",
+  "source_archive_sha256": null,
+  "dry_run": false,
+  "expected_images": 44,
+  "font_policy": "No font page/metrics copied. Prepare matching style-local pairs separately.",
+  "runtime_policy": "Exporting images does not implement or activate a HUD renderer.",
+  "images": [
+    {
+      "name": "Char_Select_Hilite1",
+      "qbkey": "0x6e5168a0",
+      "target": "hud/gh3/Char_Select_Hilite1.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\Char_Select_Hilite1.png",
+      "sha256": "9d74815e48dfff03c61f9a7fa6f1e64bc183c1d2d141d6ff3736a337ca164a04",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\Char_Select_Hilite1.png"
+    },
+    {
+      "name": "HUD_counter_body",
+      "qbkey": "0x38b63489",
+      "target": "hud/gh3/HUD_counter_body.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_body.png",
+      "sha256": "77657e57cd801c81d9b3602a5e8a6a132ccd254ecdadb6ad7a7c72858d379320",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_counter_body.png"
+    },
+    {
+      "name": "HUD_counter_drum",
+      "qbkey": "0x4020ac1b",
+      "target": "hud/gh3/HUD_counter_drum.png",
+      "dimensions": [
+        256,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum.png",
+      "sha256": "947730167647ebfd6d6dd6fd6e1e5b50b82ec54e55e28c09ce87523a0a98ee6c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_counter_drum.png"
+    },
+    {
+      "name": "HUD_counter_drum_icon",
+      "qbkey": "0x262aa716",
+      "target": "hud/gh3/HUD_counter_drum_icon.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum_icon.png",
+      "sha256": "b5f1f399591a38bf1bebc3052e79212fe73f4452182cc4fa5007e1f5d1f75bbd",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_counter_drum_icon.png"
+    },
+    {
+      "name": "HUD_lightning_01",
+      "qbkey": "0xb0e43a20",
+      "target": "hud/gh3/HUD_lightning_01.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_01.png",
+      "sha256": "88a0ff78ae4129d81ab6aab3f1b3d954dce1b02a05ab3a0597a9cfc5d0a6cbb7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_lightning_01.png"
+    },
+    {
+      "name": "HUD_lightning_03",
+      "qbkey": "0x5eea5b0c",
+      "target": "hud/gh3/HUD_lightning_03.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_03.png",
+      "sha256": "169b67ec9ef104863cda32811695b115344bf430b7cc3ed39f5c340102350253",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_lightning_03.png"
+    },
+    {
+      "name": "HUD_lightning_05",
+      "qbkey": "0xb789fe39",
+      "target": "hud/gh3/HUD_lightning_05.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_05.png",
+      "sha256": "e91cbddb91de9794d7826da6328372ecf518e94b60c80a292d1865b0c45fcece",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_lightning_05.png"
+    },
+    {
+      "name": "HUD_lightning_07",
+      "qbkey": "0x59879f15",
+      "target": "hud/gh3/HUD_lightning_07.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_07.png",
+      "sha256": "bc60ba4a15f807b7b715622907a1487284598f75a5bc79a9bdc2e3623e971166",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_lightning_07.png"
+    },
+    {
+      "name": "HUD_rock_BG_green",
+      "qbkey": "0x450cea2a",
+      "target": "hud/gh3/HUD_rock_BG_green.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_green.png",
+      "sha256": "c165d07478a52152b4284869967e437b5cc05f49417d41686a55bea84b4378e6",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_BG_green.png"
+    },
+    {
+      "name": "HUD_rock_BG_red",
+      "qbkey": "0x08c26d99",
+      "target": "hud/gh3/HUD_rock_BG_red.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_red.png",
+      "sha256": "79283d477ae7ded77f27a7ae7c719d5e9fb2fb0706e854193fbf824988dec1d0",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_BG_red.png"
+    },
+    {
+      "name": "HUD_rock_BG_yellow",
+      "qbkey": "0x95414c9e",
+      "target": "hud/gh3/HUD_rock_BG_yellow.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_yellow.png",
+      "sha256": "5528d28ebcf5688f2223a008f8aa29c4aaa2c4247990983f0d0be055e5fcc506",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_BG_yellow.png"
+    },
+    {
+      "name": "HUD_rock_body",
+      "qbkey": "0xffdc02c4",
+      "target": "hud/gh3/HUD_rock_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_body.png",
+      "sha256": "7c674218aea0d840573ac209c1a45521bbc575cb88fcc36bf4fb4309b8e062a9",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_body.png"
+    },
+    {
+      "name": "HUD_rock_lights_all",
+      "qbkey": "0x79a0865d",
+      "target": "hud/gh3/HUD_rock_lights_all.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_all.png",
+      "sha256": "904b3229739e177298003f7b8f500624914748bc477a7071cca00f59a7019338",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_lights_all.png"
+    },
+    {
+      "name": "HUD_rock_lights_green",
+      "qbkey": "0x89194192",
+      "target": "hud/gh3/HUD_rock_lights_green.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_green.png",
+      "sha256": "1a3c18ddfa571a6f970b6c5fcb5d9cbec18848fc0ac1795fa988fd1d1d5465bd",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_lights_green.png"
+    },
+    {
+      "name": "HUD_rock_lights_red",
+      "qbkey": "0xb8d9a80f",
+      "target": "hud/gh3/HUD_rock_lights_red.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_red.png",
+      "sha256": "54fdb33c7d51995a7cac94ab9a906a8878ac0a6d7d1a02b521fef8400b43a8fc",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_lights_red.png"
+    },
+    {
+      "name": "HUD_rock_lights_yellow",
+      "qbkey": "0x5037628b",
+      "target": "hud/gh3/HUD_rock_lights_yellow.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_yellow.png",
+      "sha256": "f3ef283bf98556b2327c1bc84013e73fcea3aad13ae473644940723e7fb7ce43",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_lights_yellow.png"
+    },
+    {
+      "name": "HUD_rock_needle",
+      "qbkey": "0x2438b25a",
+      "target": "hud/gh3/HUD_rock_needle.png",
+      "dimensions": [
+        16,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_needle.png",
+      "sha256": "a673a96a3498efd51c594e23097b6c4b7427474e79500225b227006b3fe44b2c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_needle.png"
+    },
+    {
+      "name": "HUD_rock_tube",
+      "qbkey": "0xd944d7e8",
+      "target": "hud/gh3/HUD_rock_tube.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube.png",
+      "sha256": "e82e90e667399478bd2c9ecb57641e19ddeaaa7e71b7c52a1832e1f02b96213c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_tube.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill",
+      "qbkey": "0x351b676f",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill.png",
+      "sha256": "db1ddebe9b637c683bec75069482d3a3188892d351527058bf1271f0a4c77354",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_tube_glow_fill.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill_b",
+      "qbkey": "0xaf2cf767",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill_b.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill_b.png",
+      "sha256": "89d71750f9c83390a4568f6548f826acd19e9d586252fc677afccdf692de7d3d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_tube_glow_fill_b.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full",
+      "qbkey": "0x20273d7b",
+      "target": "hud/gh3/HUD_rock_tube_glow_full.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full.png",
+      "sha256": "a4a4fc5c5cc548e02e467c48278ebb78c7ef000a4174fe54f95e9857dd3e4ce9",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_tube_glow_full.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full_b",
+      "qbkey": "0x0a3c8de4",
+      "target": "hud/gh3/HUD_rock_tube_glow_full_b.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full_b.png",
+      "sha256": "189e1e5f3b627fa64f5bb590dd40f80493e66e85b699ce09e26e3e5a09092684",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_rock_tube_glow_full_b.png"
+    },
+    {
+      "name": "HUD_score_body",
+      "qbkey": "0xe4334497",
+      "target": "hud/gh3/HUD_score_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_body.png",
+      "sha256": "d11e63994389c3c8ee2182b0ee873d85e026de89c3c958c1a84df90c4d95f5a8",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_body.png"
+    },
+    {
+      "name": "HUD_score_flash",
+      "qbkey": "0x36f7ff86",
+      "target": "hud/gh3/HUD_score_flash.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_flash.png",
+      "sha256": "37db66c8356b6ee73f9f3e8f7bb92879a79768afb0ca4804ff4764e1ebf63d2f",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_flash.png"
+    },
+    {
+      "name": "HUD_score_light_0",
+      "qbkey": "0xb2f82657",
+      "target": "hud/gh3/HUD_score_light_0.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0.png",
+      "sha256": "83a4b3a3c7ea62e8a8479b91ef703305e977fad2abdd7869d002105f3e4fcfc7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_0.png"
+    },
+    {
+      "name": "HUD_score_light_0_blue",
+      "qbkey": "0x677f40d9",
+      "target": "hud/gh3/HUD_score_light_0_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_blue.png",
+      "sha256": "6f7374d542d5995bbc03d5bbcb8edc6c51d8a37805ff1159b793d06961414569",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_0_blue.png"
+    },
+    {
+      "name": "HUD_score_light_0_green",
+      "qbkey": "0x316255c3",
+      "target": "hud/gh3/HUD_score_light_0_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_green.png",
+      "sha256": "83a4b3a3c7ea62e8a8479b91ef703305e977fad2abdd7869d002105f3e4fcfc7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_0_green.png"
+    },
+    {
+      "name": "HUD_score_light_0_purple",
+      "qbkey": "0x7662e684",
+      "target": "hud/gh3/HUD_score_light_0_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_purple.png",
+      "sha256": "31a394fa38d8c9257518640e8e37740ec3c50b2f5255020dd9199f8ef0ac763b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_0_purple.png"
+    },
+    {
+      "name": "HUD_score_light_1",
+      "qbkey": "0xc5ff16c1",
+      "target": "hud/gh3/HUD_score_light_1.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1.png",
+      "sha256": "da478cc5f62e345296fda7b913e3fa969d913fe4e9f95fa8dc48dc877942d881",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_1.png"
+    },
+    {
+      "name": "HUD_score_light_1_blue",
+      "qbkey": "0xac23937c",
+      "target": "hud/gh3/HUD_score_light_1_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_blue.png",
+      "sha256": "4ea17f694ec7e856db3a4a452a7302d2f8096c95be5c79fe7b892920db15d3da",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_1_blue.png"
+    },
+    {
+      "name": "HUD_score_light_1_green",
+      "qbkey": "0x97155e77",
+      "target": "hud/gh3/HUD_score_light_1_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_green.png",
+      "sha256": "da478cc5f62e345296fda7b913e3fa969d913fe4e9f95fa8dc48dc877942d881",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_1_green.png"
+    },
+    {
+      "name": "HUD_score_light_1_purple",
+      "qbkey": "0xbac8e61a",
+      "target": "hud/gh3/HUD_score_light_1_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_purple.png",
+      "sha256": "0ba9a5d0bb2a2c5501ecdce56ab28ea9f64225a8746d5c8c291476fd4885750d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_1_purple.png"
+    },
+    {
+      "name": "HUD_score_light_2",
+      "qbkey": "0x5cf6477b",
+      "target": "hud/gh3/HUD_score_light_2.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2.png",
+      "sha256": "a581049ada72c02ab8447c3e9a5b44afddbf74562db2bd20b701ee729d51ba4b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_2.png"
+    },
+    {
+      "name": "HUD_score_light_2_blue",
+      "qbkey": "0x2ab7e1d2",
+      "target": "hud/gh3/HUD_score_light_2_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_blue.png",
+      "sha256": "4a542cee1513e3a0becb92ed877f701f7293731e973769d95ecf43d87ab9ea1d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_2_blue.png"
+    },
+    {
+      "name": "HUD_score_light_2_green",
+      "qbkey": "0xa6fd44ea",
+      "target": "hud/gh3/HUD_score_light_2_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_green.png",
+      "sha256": "a581049ada72c02ab8447c3e9a5b44afddbf74562db2bd20b701ee729d51ba4b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_2_green.png"
+    },
+    {
+      "name": "HUD_score_light_2_purple",
+      "qbkey": "0x3447e1f9",
+      "target": "hud/gh3/HUD_score_light_2_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_purple.png",
+      "sha256": "c99f3d75c121340464f1cd14193ca2b98c219e5918055640922f4e6a9e8a3171",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_light_2_purple.png"
+    },
+    {
+      "name": "HUD_score_nixie_1a",
+      "qbkey": "0xb373f287",
+      "target": "hud/gh3/HUD_score_nixie_1a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_1a.png",
+      "sha256": "7037f0248d84944697f9286e985fa3e4833292fedc808eb01d80eae7d900c4e2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_1a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2a",
+      "qbkey": "0x985ea144",
+      "target": "hud/gh3/HUD_score_nixie_2a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2a.png",
+      "sha256": "9917f6be9f0be446f245ca0e953eb9e49f4c29a4ad4e06c0d66b29aa85b0284a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_2a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2b",
+      "qbkey": "0x0157f0fe",
+      "target": "hud/gh3/HUD_score_nixie_2b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2b.png",
+      "sha256": "143705eeb679d2e5670eeed35cb1f36a2e551833f1e8aabd44b04d2fb5e1f8a9",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_2b.png"
+    },
+    {
+      "name": "HUD_score_nixie_3a",
+      "qbkey": "0x81459005",
+      "target": "hud/gh3/HUD_score_nixie_3a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_3a.png",
+      "sha256": "64975b4fcb8e26b6b41dd55efc70d3d54fb081f03b3eec0eb4726bb8b8f6aad2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_3a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4a",
+      "qbkey": "0xce0406c2",
+      "target": "hud/gh3/HUD_score_nixie_4a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4a.png",
+      "sha256": "4dccf90338488d11d5a2fb1bc819e2d126929e5408ecffbafd8459fac5e246a1",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_4a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4b",
+      "qbkey": "0x570d5778",
+      "target": "hud/gh3/HUD_score_nixie_4b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4b.png",
+      "sha256": "166d3a354d1439705ddca0255fff98881cebaf471c0c4a6a48ec25dd40cdd7cf",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_4b.png"
+    },
+    {
+      "name": "HUD_score_nixie_6b",
+      "qbkey": "0x653b35fa",
+      "target": "hud/gh3/HUD_score_nixie_6b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_6b.png",
+      "sha256": "38809427969c4a7022447ead6e7d8e558a1e0e1e4789f9e763609e4e50fc1f77",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_6b.png"
+    },
+    {
+      "name": "HUD_score_nixie_8b",
+      "qbkey": "0xfbb81874",
+      "target": "hud/gh3/HUD_score_nixie_8b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_8b.png",
+      "sha256": "44f8768760ab3798631f5546927be81a0050884a43fd779a8335a8341d8cc5d7",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3\\HUD_score_nixie_8b.png"
+    }
+  ],
+  "copied": 44,
+  "missing": 0,
+  "errors": [],
+  "hud_directory": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\MTN Dew Pitch Black Zones\\hud\\gh3"
+}

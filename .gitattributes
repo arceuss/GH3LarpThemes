@@ -1,0 +1,4 @@
+# keep every theme file byte for byte, no line ending conversion on settings.ini and friends
+* -text
+*.sh text eol=lf
+*.yml text eol=lf
